@@ -1,0 +1,72 @@
+body{
+    /* background-color: aquamarine;*/
+    background-image: url(/images/fondo\ 6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Freehand', cursive;
+    font-family: 'Noto Serif', serif;
+    text-align:justify;
+    color: aliceblue;
+}
+
+.main-title{
+    font-family: 'Freehand', cursive;
+    font-size: 100px;
+    text-align: center;
+}
+
+img{
+    width: 40%;
+}
+
+.luna{
+    width: 50%;
+}
+
+.titulo-origen{
+    font-size: 30px;
+}
+
+.titulo-tiempo{
+    font-size: 30px;
+}
+
+.titulo-estrellas{
+    font-size: 30px;
+}
+
+.titulo-cometa{
+    font-size: 30px;
+}
+
+.titulo-sluna{
+    font-size: 30px;
+}
+
+.titulo-lunaz{
+    font-size: 30px;
+}
+
+.titulo-eclipse{
+    font-size: 30px;
+}
+
+.titulo-andromeda{
+    font-size: 30px;
+}
+
+.titulo-lluviae{
+    font-size: 30px;
+}
+
+.titulo-vialac{
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
